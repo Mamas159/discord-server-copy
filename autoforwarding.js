@@ -1,5 +1,5 @@
 function autoforward(client, discord,channelfrom, channelto, serverto){
-
+//real time forward message from a server to another
       client.on('message', message => {
         var server = client.guilds.find(guilds => guilds.id === serverto)
         var chan = new discord.TextChannel(server,{"id":channelto});

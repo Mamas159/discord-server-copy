@@ -1,5 +1,5 @@
 function autofetch(client, discord,channelfrom, serverfrom,channelto, serverto){
-
+//fetch old message from a server to another
 
 
 
