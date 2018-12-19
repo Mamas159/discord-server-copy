@@ -52,20 +52,10 @@ function autofetch(client, discord,channelfrom, serverfrom,channelto, serverto){
                   embedmsg[0].fields=filtered
                 chanto.send(embedmsg[0].message.author.username+"send an embed",{embed:embedmsg[0]}
                 )
+                            }
             }
-
-
             }
-
-
-
-            }
-
-
 
       })
-
-
     })}
-
     module.exports=autofetch
