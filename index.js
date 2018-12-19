@@ -4,17 +4,17 @@ const autofetch = require ("./autofetch")
 const autosend = require ("./autosend")
 const autodm = require ("./autodm")
 const discord = require("discord.js");
-const TOKEN = ".";
+const TOKEN = "."; // Your login token
 const client = new discord.Client();
-let serverfrom= '.'
-let serverto = "."
+let serverfrom= '.'// the server id you need to copy
+let serverto = "." //the server id  you send message to
 
 
 
-let channelfrom1 = "."
-let channelto1 = "."
+let channelfrom1 = "."// the channel id  you need to copy
+let channelto1 = "."// the channel id  you send message to
 
-let channelfrom2 = "."
+let channelfrom2 = "." //support multiple channel id
 let channelto2 = "."
 
 
