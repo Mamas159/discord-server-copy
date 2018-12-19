@@ -7,5 +7,6 @@ This is a new project/also my first project using Javascript, so there will be p
 
 
 See video for current function:
-"https://youtu.be/DkWJkpA0jkQ"
-"https://youtu.be/zRL96s9gYyI"
+History message copy with autofetch:"https://youtu.be/DkWJkpA0jkQ"
+
+Monitor Copy with autoforwarding: "https://youtu.be/zRL96s9gYyI"
