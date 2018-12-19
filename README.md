@@ -1,7 +1,7 @@
 # servercopy
 Copy content of a server into another server using self bot.Useful when you have multiple 'burner dc' (cook groups/ bots) and don't want to switch back and forth to see important annoucements.
 
-Don't use to auto-leak message to another server although it's possible. For those groups which require you to pay for memberships, copying message and share to other people is not allowed.
+Don't use this script to auto-leak message to another server although it's possible. For those groups which require you to pay for memberships, copying message and share to other people is not allowed.
 
 
 
