@@ -1,13 +1,12 @@
 # servercopy
-Copy content of a server into another server. Useful when you have multiple 'burner dc' (cook groups/ bots)
-and don't want to switch back and forth to see important annoucements.
+Copy content of a server into another server using self bot.Useful when you have multiple 'burner dc' (cook groups/ bots) and don't want to switch back and forth to see important annoucements.
 
-Don't use to auto-leak message to another server although it's possible.
-
+Don't use to auto-leak message to another server although it's possible. For those groups which require you to pay for memberships, copying message and share to other people is not allowed.
 
 
 
-NOTE:Self bot is forbidden. Experimental use only and use at own risk
+
+NOTE:Self bot means you don't need to add a real 'discord bot' to the group to do the server copy. But Self bot is forbidden. Experimental use only and use at own risk
 
 This is a new project/also my first project using Javascript, so there will be potential bugs.
 
