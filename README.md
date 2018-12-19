@@ -18,3 +18,6 @@ History message copy with autofetch:"https://youtu.be/DkWJkpA0jkQ"
 Shopify Monitor content forward with autoforwarding: "https://youtu.be/zRL96s9gYyI"
 It's not very useful for copying monitor message as there will be delays.
 (even 1-2s delay can prevent you from copping shoes/clothes)
+
+
+![alt text](https://i.imgur.com/vmG2Yha.png)
