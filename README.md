@@ -23,9 +23,14 @@ For login token, press ctrl+shift+i before login. And then.....(you can google t
 
 # See video for current function:
 History message copy with autofetch:"https://youtu.be/DkWJkpA0jkQ"
-
-Shopify Monitor content forward with autoforwarding: "https://youtu.be/zRL96s9gYyI"
-
+![alt text](https://media.giphy.com/media/YVr4kzTzh1qUkWPTfb/giphy.gif)
 
 
-![alt text](https://i.imgur.com/vmG2Yha.png)
+
+Shopify Monitor content forward with autoforwarding:
+![alt text](https://media.giphy.com/media/7zViz5KdHavgebsjmU/giphy.gif)
+
+
+
+
+
