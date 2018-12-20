@@ -21,7 +21,7 @@ For channel/server id, open dev mode and right click on channel/server name.
 For login token, press ctrl+shift+i before login. And then.....(you can google the next steps)
 
 
-See video for current function:
+# See video for current function:
 History message copy with autofetch:"https://youtu.be/DkWJkpA0jkQ"
 
 Shopify Monitor content forward with autoforwarding: "https://youtu.be/zRL96s9gYyI"
