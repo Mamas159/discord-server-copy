@@ -22,7 +22,7 @@ For login token, press ctrl+shift+i before login. And then.....(you can google t
 
 
 # See video for current function:
-History message copy with autofetch:"https://youtu.be/DkWJkpA0jkQ"
+History message copy with autofetch:\n
 ![alt text](https://media.giphy.com/media/YVr4kzTzh1qUkWPTfb/giphy.gif)
 
 
