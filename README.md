@@ -22,12 +22,12 @@ For login token, press ctrl+shift+i before login. And then.....(you can google t
 
 
 # See video for current function:
-History message copy with autofetch:\n
+History message copy with autofetch: <br><br>
 ![alt text](https://media.giphy.com/media/YVr4kzTzh1qUkWPTfb/giphy.gif)
 
 
 
-Shopify Monitor content forward with autoforwarding:
+Shopify Monitor content forward with autoforwarding: <br><br>
 ![alt text](https://media.giphy.com/media/7zViz5KdHavgebsjmU/giphy.gif)
 
 
