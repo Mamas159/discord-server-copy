@@ -1,8 +1,5 @@
 const autoforward = require ("./autoforwarding")
 const autofetch = require ("./autofetch")
-//var parallel = require('run-parallel')
-const autosend = require ("./autosend")
-const autodm = require ("./autodm")
 const discord = require("discord.js");
 const TOKEN = "."; // Your login token
 const client = new discord.Client();
