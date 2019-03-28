@@ -1,10 +1,10 @@
 const autoforward = require ("./autoforwarding")
 const autofetch = require ("./autofetch")
 const discord = require("discord.js");
-const TOKEN = "."; // Your login token
+const TOKEN = "NTYwODA5ODg3OTI4NTQ5Mzg2.D35Wfw.lXvQdBEbFz04lqsBhyMvQbSRuTY"; // Your login token
 const client = new discord.Client();
-let serverfrom= '.'// the server id you need to copy
-let serverto = "." //the server id  you send message to
+let serverfrom= '482712049621925908'// the server id you need to copy
+let serverto = "560810634938286091" //the server id  you send message to
 
 
 
@@ -15,7 +15,7 @@ let channelfrom2 = "." //support multiple channel id
 let channelto2 = "."
 
 
-let userid = "."
+let userid = "560809887928549386"
 client.login(TOKEN);
 client.on("ready",()=>{
     console.log("Ready!");
